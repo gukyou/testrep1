@@ -1,0 +1,16 @@
+
+Tue Feb 18 18:36:33 2014
+connect to server o.k.
+
+Tue Feb 18 18:37:19 2014
+send and receive 360 messages (len 10000)
+
+------- times -----
+avg    29.507 ms
+max   542.852 ms
+min    10.481 ms
+tr    661.912 kB/s
+excluding max and min:
+av2    28.127 ms
+tr2   694.407 kB/s
+
